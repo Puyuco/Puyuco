@@ -9,7 +9,7 @@
 
 - 📫 Você me acha através do E-mail **Diegoborgesdb1997@gmail.com**
 
-- 📄 Em busca de Conhecimento e Experiência [https://www.linkedin.com/in/diego-borges-469407245/](https://www.linkedin.com/in/diego-borges-469407245/)
+- 📄 Em busca de Conhecimento e Experiência 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
