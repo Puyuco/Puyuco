@@ -1,7 +1,7 @@
 <h1 align="center">Oi 👋,Eu sou Diego Borges</h1>
 <h3 align="center">Apaixonado por Ciência,Engenharia e Análise de Dados no Mundo Digital</h3>
 
-- 🌱 Atualmente Estou Aprendendo e Treinando **SQL(Oracle),Python,Excel e Adquirindo Conhecimento e Certificados na Amazon(AWS)**
+- 🌱 Atualmente Estou Trabalhando com **SQL(Oracle),Python,Excel e Power BI e Adquirindo Conhecimento e Certificados na Amazon(AWS)**
 
 - Atualmente Estou focando em obter os Certificados na AWS [Certificados AWS](https://drive.google.com/drive/folders/1G4Q7x3IHdhbxfYhl07-dOmDSUXPRIVG0)
 
