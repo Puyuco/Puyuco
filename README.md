@@ -8,6 +8,7 @@ Atualmente Estudande de Banco de Dados. Curioso sobre programação,Automação,
   &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />&nbsp;&nbsp;
   &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />&nbsp;&nbsp;&nbsp;
   &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />
+  &nbsp;&nbsp;<img width='50' height='50' src="https://icongr.am/devicon/amazonwebservices-original.svg?size=128&color=currentColor" />
 </div> 
 
 ##
@@ -20,6 +21,7 @@ diegoborges26121997">
 &nbsp;<a href="https://www.instagram.com/puyuco1997/">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>&nbsp;
+
 
 
 
