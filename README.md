@@ -11,17 +11,6 @@ Atualmente Estudande de Banco de Dados. Curioso sobre programação,Automação,
   &nbsp;&nbsp;<img width='50' height='50' src="https://icongr.am/devicon/amazonwebservices-original.svg?size=128&color=currentColor" />
 </div> 
 
-##
-
-### Você também me encontra em:
-&nbsp;<a href="www.linkedin.com/in/
-diegoborges26121997">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>&nbsp;
-&nbsp;<a href="https://www.instagram.com/puyuco1997/">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
-</a>&nbsp;
-
 
 
 
